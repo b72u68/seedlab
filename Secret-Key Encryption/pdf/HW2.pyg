@@ -1,0 +1,19 @@
+
+while getopts f: flag
+do
+    case "${flag}" in
+        f) filename=${OPTARG};;
+        *) exit 1;;
+    esac
+done
+
+if [ -f $filename ]
+then
+    head -c 54 $filename > header
+    tail -c +56 $filename > body
+    cat header 55th body > "corrupted_${filename}"
+    rm -rf header body
+else
+    echo "File does not exist."
+    exit 1
+fi

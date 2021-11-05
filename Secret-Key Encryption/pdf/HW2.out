@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.2}{Lab Tasks}{}% 1
+\BOOKMARK [2][-]{subsection.2.1}{Task 1: Frequency Analysis}{section.2}% 2
+\BOOKMARK [2][-]{subsection.2.2}{Task 2: Encryption using Different Ciphers and Modes}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.2.1}{DES}{subsection.2.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.2}{AES-128}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.3}{AES-256}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Observations}{subsection.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Task 3: Encryption Mode - ECB vs. CBC}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Experiment with another picture}{subsection.2.3}% 9
+\BOOKMARK [2][-]{subsection.2.4}{Task 4: Padding}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.5}{Task 5: Error Propagation - Corrupted Cipher Text}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.6}{Task 6: Inital Vector \(IV\)}{section.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.6.1}{Task 6.1. Uniqueness of the IV}{subsection.2.6}% 13
+\BOOKMARK [3][-]{subsubsection.2.6.2}{Task 6.2. Common Mistake: Use the Same IV}{subsection.2.6}% 14
+\BOOKMARK [3][-]{subsubsection.2.6.3}{Task 6.3. Common Mistake: Use a Predictable IV}{subsection.2.6}% 15
+\BOOKMARK [2][-]{subsection.2.7}{Task 7: Programming using the Crypto Library}{section.2}% 16

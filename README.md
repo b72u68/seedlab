@@ -1,3 +1,3 @@
 # SEEDLab
-Some programs I did for solving SEEDlab tasks in CS 458: Introduction to Information Security 
+Some programs I did for SEEDlab tasks in CS458: Introduction to Information Security 
 class.
